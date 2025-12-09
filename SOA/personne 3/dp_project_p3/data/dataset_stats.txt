@@ -1,0 +1,20 @@
+STATISTIQUES DU DATASET
+======================================================================
+
+Nombre de patients: 5000
+Âge moyen: 65.9 ans
+Coût moyen: $18027.86
+Durée moyenne séjour: 2.0 jours
+
+Distribution diagnostics:
+diagnosis
+Hypertension       945
+Diabetes Type 2    715
+Heart Disease      618
+Arthritis          536
+Asthma             504
+Cancer             411
+Depression         379
+Anxiety            358
+Healthy Checkup    276
+COPD               258
